@@ -7,6 +7,11 @@ body {
     color: #333;
 }
 
+h6 {
+    font-family: Arial;
+    text-align: center;
+}
+
 .container {
     max-width: 800px;
     margin: auto;
@@ -16,10 +21,9 @@ body {
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
-.profile-pic {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
+.banner {
+    width: 15000px;
+    height: 1500px;
     margin: 20px auto;
     display: block;
 }
@@ -55,3 +59,4 @@ li {
     background: #444;
     box-shadow: 0 0 10px rgba(255,255,255,0.1);
 }
+
