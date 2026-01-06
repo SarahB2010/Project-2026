@@ -22,10 +22,8 @@ h6 {
 }
 
 .banner {
-    width: 15px;
-    height: 25px;
-    margin: 20px auto;
-    display: block;
+    length: 970px;
+    width: 90px;
 }
 
 button {
@@ -59,6 +57,7 @@ li {
     background: #444;
     box-shadow: 0 0 10px rgba(255,255,255,0.1);
 }
+
 
 
 
