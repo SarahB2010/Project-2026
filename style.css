@@ -22,8 +22,8 @@ h6 {
 }
 
 .banner {
-    width: 15000px;
-    height: 1500px;
+    width: 1500px;
+    height: 750px;
     margin: 20px auto;
     display: block;
 }
@@ -59,4 +59,5 @@ li {
     background: #444;
     box-shadow: 0 0 10px rgba(255,255,255,0.1);
 }
+
 
